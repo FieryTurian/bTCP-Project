@@ -16,3 +16,7 @@ The testing framework includes the following tests:
 5. network with delays (sometimes exceeding the timeout value);
 6. network with reordered packets;
 7. network with all of the above problems;
+
+The project was made for the course Networks and Distributed Systems at Radboud University, cohort 2018.
+
+Note: lossy_layer.py and testframework.py were mostly implemented by the professors of the course.
